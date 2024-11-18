@@ -29,7 +29,9 @@
 1. `Решение заданий предоставлено на скриншотах`
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/1.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/1.1.PNG)`
 
 
@@ -42,7 +44,9 @@
 1. `Решение заданий предоставлено на скриншотах`
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/2.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/2.2.PNG)`
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/2.3.PNG)'
 
@@ -55,11 +59,17 @@
 1. `Решение заданий предоставлено на скриншотах`
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/3.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/3.1.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/3.2.PNG)'
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/3.3d.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/3.4d.PNG)'
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/3.5.PNG)`
 
 
@@ -71,9 +81,13 @@
 1. `Решение заданий предоставлено на скриншотах`
 
 `При необходимости прикрепитe сюда скриншот4
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/4.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/4.1.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/4.2.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/4.3PNG)`
 
 
@@ -86,12 +100,21 @@
 1. `Решение заданий предоставлено на скриншотах`
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.0.1.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.1.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.1.1.PNG)'
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.2.PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.2.2.PNG)'
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.3PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.4PNG)`
+
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/5.5PNG)`
