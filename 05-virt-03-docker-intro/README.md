@@ -88,7 +88,7 @@
 
 ![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/4.2.PNG)`
 
-![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/4.3PNG)`
+![IMG](https://github.com/wintercomesX/05-virt-03/blob/main/05-virt-03-docker-intro/img/4.3.PNG)`
 
 
 
